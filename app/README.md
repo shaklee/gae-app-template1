@@ -1,6 +1,6 @@
-# Spring Boot based Hello World app
+# Spring Boot based app template
 
-This sample shows how to run a [Spring Boot][spring-boot] application on [Google
+This is an app template for building a [Spring Boot][spring-boot] application on [Google
 Cloud Platform][cloud-java]. It uses the [Google App Engine flexible
 environment][App Engine-flexible].
 
@@ -9,7 +9,9 @@ environment][App Engine-flexible].
 [spring-boot]: http://projects.spring.io/spring-boot/
 
 
-## Before you begin
+## Setup
+
+Follow [original project:][https://github.com/GoogleCloudPlatform/getting-started-java/tree/master/helloworld-springboot]
 
 This sample assumes you have [Java 8][java8] installed.
 
