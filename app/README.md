@@ -11,7 +11,9 @@ environment][App Engine-flexible].
 
 ## Setup
 
-Follow [original project:][https://github.com/GoogleCloudPlatform/getting-started-java/tree/master/helloworld-springboot]
+Follow [original project][original-project]
+
+[original-project]: https://github.com/GoogleCloudPlatform/getting-started-java/tree/master/helloworld-springboot
 
 This sample assumes you have [Java 8][java8] installed.
 
